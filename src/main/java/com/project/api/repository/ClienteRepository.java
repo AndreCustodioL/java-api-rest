@@ -1,6 +1,5 @@
 package com.project.api.repository;
 
-import com.project.api.model.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
